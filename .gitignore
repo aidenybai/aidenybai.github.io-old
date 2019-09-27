@@ -1,9 +1,0 @@
-.DS_Store
-target
-test/cljs
-resources/public/js/cljs
-.repl
-.nrepl-port
-out
-build
-.git/
