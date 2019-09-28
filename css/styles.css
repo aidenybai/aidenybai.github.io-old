@@ -1,17 +1,55 @@
 body {
   background-color: #000;
-  transform: scale(1.1);
-  overflow: hidden;
+}
+
+scrollbar,
+scrollbar *,
+scrollcorner {
+  -moz-appearance: none !important;
+  --scrollbar-width: 10px;
+  --scrollbar-height: var(--scrollbar-width);
+}
+
+scrollbar,
+scrollcorner {
+  background: #282828 !important;
+}
+scrollbar[orient="vertical"] {
+  width: var(--scrollbar-width) !important;
+  min-width: var(--scrollbar-width) !important;
+}
+scrollbar[orient="horizontal"] {
+  height: var(--scrollbar-height) !important;
+  min-height: var(--scrollbar-height) !important;
+}
+
+scrollbar thumb {
+  background: #646464 !important;
+}
+scrollbar thumb:hover,
+scrollbar thumb:active {
+  background: #00aced !important;
+}
+
+scrollbar:hover scrollbarbutton {
+  background-color: #444444 !important;
+}
+scrollbar scrollbarbutton:hover {
+  background: #646464 !important;
+}
+scrollbar scrollbarbutton:active {
+  background: #00aced !important;
 }
 
 #console {
   font-family: courier, monospace;
   color: #fff;
-  width: 750px;
+  width: 850px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 100px;
-  font-size: 14px;
+  margin-bottom: 100px;
+  font-size: 15px;
 }
 
 a {
@@ -36,7 +74,7 @@ a {
 }
 
 #j {
-  color: #A71098;
+  color: #a71098;
 }
 
 #h {
