@@ -1,5 +1,5 @@
 <span id="a">aiden@bai</span> <span id="b">MINGW64</span> <span id="h">/usr</span> <span id="c">(master)</span>
-<span id="c">$</span> git clone https://github.com/aidenybai/about<!-- kjsdfhkjdhsfkjdshfkj -->
+<span id="c">$</span> git clone https://github.com/aidenybai/aiden.git<!-- kjsdfhkjdhsfkjdshfkj -->
 
 <span id="a">aiden@bai</span> <span id="b">MINGW64</span> <span id="h">/usr</span> <span id="c">(master)</span>
 <span id="c">$</span> cd aiden<!-- kjsdfhkjdhsfkjdshfkj -->
@@ -9,8 +9,8 @@
 <span id="op"><hr></span><br>
 <span id="k"><b>Hi, I'm Aiden Bai.</b></span> <!-- sjkfhskjf -->
 
-I am an student and part-time MEVN full-stack developer. Most of my work is open source and can be found at my <a href="https://github.com/aidenybai">GitHub</a>.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+I a an student and part-time MEVN full-stack developer. Most of my work is open source and can be found at my <a href="https://github.com/aidenybai">GitHub</a>.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>Outside of programming and slaving away doing schoolwork, I enjoy video games, chatting, and ping pong.</p> <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>Some of my projects include:</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf --><a href="https://grumpy.js.org"><b>Grumpy<b> - 🔑 Painless key-value storage</a>
-<a href="https://snip.ml"><b>Snip</b> - 🔗 Dead-simple link shortener</a>
-<a href="https://muun.cf"><b>Muun</b> - 🌙 Web-filtering evasion</a></p><p><i><span id="op">P.S. I only accept communication through smoke signals.</span></i></p>
+<p>Some of my projects include:</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf --><a href="https://github.com/camasscioly/covidheroes.net"><b>COVID Heroes<b> - ❤️✋ COVID-19 communication platform to support medical workers.</a>
+<a href="https://github.com/aidenybai/skywarder"><b>Skywarder<b> - 💙📘 A simple and fast RESTful API for interacting with the Skyward grading system.</a>
+<a href="https://grumpy.js.org"><b>Grumpy<b> - 🔑 Painless key-value storage</a></p><p><i><span id="op">P.S. I only accept communication through smoke signals.</span></i></p>
